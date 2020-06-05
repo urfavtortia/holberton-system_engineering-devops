@@ -1,3 +1,2 @@
-!#/bin/bash
-shell basics
-
+#!/bin/bash
+pwd prints working directory
