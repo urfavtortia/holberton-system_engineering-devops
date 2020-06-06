@@ -1,2 +1,2 @@
 #!/bin/bash
-su chmod 774 hello
+chmod ug=rw+x o=r
