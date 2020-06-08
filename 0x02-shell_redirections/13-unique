@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -sc '[:alpha:]' | sort | uniq -c 
+uniq -u | sort 
